@@ -14,7 +14,7 @@
 - Delete the User
 
 ## How to run this project:
- - Clone this project or download the .jmx file in the project directory.
+ - Clone this project [Dmoney-API-Test-JMeter](https://github.com/ahnafahmad/Dmoney-API-Test-Jemeter.git)  or download the .jmx file in the project directory.
 
 ## How to Generate Report: 
  Automated dmoney User API using Jmeter where test request added for Login,Get User List,Creating Users,Searching users by Id/Phone Numer/Email, Updating Users and Deleting Users and performed testing for CRUD operations. 
