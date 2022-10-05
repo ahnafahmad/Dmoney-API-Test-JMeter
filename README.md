@@ -1,7 +1,7 @@
 # Dmoney-API-Test-Jemeter
 
 ## Technology and Tools used in this Project
-- Jmeter
+- JMeter
 
 ## Project Scenarios
 - Login to User
